@@ -1,2 +1,3 @@
 # website
-# Please do not re-use jpg images without asking for permission and crediting me
+# created for grade 12 com sci class
+# cyberspacevoid.xyz
